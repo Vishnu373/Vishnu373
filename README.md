@@ -6,7 +6,6 @@ I'm a passionate machine learning engineer with a keen interest on Artificial Ge
 
 Skills: Python / TensorFlow / PyTorch / AWS / LLMs (RAG) / Java
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Artificial Intelligence with Machine Learning. 
 - 👯 I’m looking to collaborate on ML projects 
 - 🤔 I’m looking for help with LLMs 
