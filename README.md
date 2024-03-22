@@ -8,7 +8,6 @@ Skills: Python / TensorFlow / PyTorch / AWS / LLMs (RAG) / Java
 
 - 🌱 I’m currently learning Artificial Intelligence with Machine Learning. 
 - 👯 I’m looking to collaborate on ML projects 
-- 🤔 I’m looking for help with LLMs 
 - 📫 How to reach me: vishnu1999w@gmail.com 
 
 
