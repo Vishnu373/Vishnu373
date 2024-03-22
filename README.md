@@ -6,4 +6,3 @@
 
 Skills: Python / TensorFlow / PyTorch / AWS / LLMs (RAG) / Java
 
-- 🔭 I’m currently working on this page. 
