@@ -6,3 +6,12 @@ I'm a passionate machine learning engineer with a keen interest on Artificial Ge
 
 Skills: Python / TensorFlow / PyTorch / AWS / LLMs (RAG) / Java
 
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Artificial Intelligence with Machine Learning. 
+- 👯 I’m looking to collaborate on ML projects 
+- 🤔 I’m looking for help with LLMs 
+- 📫 How to reach me: vishnu1999w@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vishnu373)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://vichuz373.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vishnu-vinay-1811-vichuz//)  
+
