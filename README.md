@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Vishnu Vinay
-## Software Developer | Machine Learning Engineer 
+## Software Developer | Machine Learning Engineer | AI Engineer | Data Scientist
 
 ![Software Developer | Machine Learning Engineer ](https://static.vecteezy.com/system/resources/previews/004/940/920/non_2x/artificial-intelligence-machine-learning-ai-data-deep-learning-for-future-technology-artwork-mining-isometric-neural-network-machine-programming-and-responsive-web-banner-illustration-vector.jpg)
 
