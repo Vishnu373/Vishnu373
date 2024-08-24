@@ -27,7 +27,6 @@
 <p align="left">
 <a href="https://hashnode.com/@vichuz373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vichuz373" height="30" width="40" /></a>
 <a href="https://medium.com/@techvlogs2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@techvlogs2023" height="30" width="40" /></a>
-<a href="https://discord.gg/vishnu99_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vishnu99_23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
