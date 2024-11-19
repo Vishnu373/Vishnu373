@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu373" alt="vishnu373" /></a> </p>
 
-- 🔭 I’m currently working on [CVAI Project](https://github.com/Iterinnovandi/Curriculum-VitAI)
-
 - 🌱 I’m currently learning **Generative AI, Big data**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
