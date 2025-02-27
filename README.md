@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vinay</h1>
-<h3 align="center">An AI enthusiast from Canada</h3>
+<h3 align="center">An AI enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu373" alt="vishnu373" /></a> </p>
 
