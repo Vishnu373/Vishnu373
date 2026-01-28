@@ -7,7 +7,6 @@
         data-mode="interactive">
 </script>
 
-
 <img src="https://www.githubtimeline.com/api/embed/stats/ght_DRs2vl2Y1nHswrNXrCxoxof9jP1p3t_T?theme=cherry-blossom" alt="GitHub Stats" />
 
 <!-- Optional parameters:
