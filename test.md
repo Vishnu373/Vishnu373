@@ -1,1 +1,7 @@
-<img width="3398" height="1916" alt="image" src="https://github.com/user-attachments/assets/07518017-be48-42cd-b30a-fea94e16399c" />
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_DRs2vl2Y1nHswrNXrCxoxof9jP1p3t_T?view=active&theme=cherry-blossom)
+
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
+  - width: 400-1200 (default: 800)
+-->
