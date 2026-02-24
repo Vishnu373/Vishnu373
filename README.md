@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer</h3>
 
 My projects:
-- LabelIQ (Associated with Bluora AI) [https://github.com/kamalbluora-ai/Label-IQ-experiments] - AI food compliance based on Canadian food standards (CFIA).
+- [LabelIQ] (https://github.com/kamalbluora-ai/Label-IQ-experiments) (Associated with Bluora AI)  - AI food compliance based on Canadian food standards (CFIA).
 - Mental Health AI assistant (MhelpAI) - Chatbot specialized for individuals struggling with depression, anxiety and like of.
 - Stable diffusion VRAM estimator - Amount of VRAM required for diffusion model
 
