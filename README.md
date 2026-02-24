@@ -4,7 +4,8 @@
 My projects:
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
 - [Mental Health AI assistant](https://github.com/Vishnu373/mental-health-ai-assistant-protoype) - Chatbot specialized for individuals struggling with depression, anxiety and like of.
-- [Stable diffusion VRAM estimator](https://github.com/Vishnu373/stable-diffusion-vram-calculator) - Amount of VRAM required for diffusion model
+- [Stable diffusion VRAM estimator](https://github.com/Vishnu373/stable-diffusion-vram-calculator) - Amount of VRAM required for diffusion model.
+- [Clarity Coach](https://github.com/Vishnu373/clarity-coach-prototype) - AI career strategist.
 
 - 📫 How to reach me **vishnu1999w@gmail.com**
 
