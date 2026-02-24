@@ -1,20 +1,13 @@
 <h1 align="center">Hi, I'm Vishnu Vinay</h1>
 <h3 align="center">AI Engineer</h3>
 
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 👯 I’m looking to collaborate on **Machine learning projects**
-
-- 🤝 I’m looking for help with **ML / AI / Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vishnu373](https://github.com/Vishnu373)
-
-- 💬 Ask me about **AI**
+My projects:
+- LabelIQ (Associated with Bluora AI) - AI food compliance based on Canadian food standards (CFIA).
+- Mental Health AI assistant (MhelpAI) - Chatbot specialized for individuals struggling with depression, anxiety and like of.
+- Stable diffusion VRAM estimator - Amount of VRAM required for diffusion model
 
 - 📫 How to reach me **vishnu1999w@gmail.com**
 
-- ⚡ Fun fact **Curiosity is the thing which keeps me motivated.**
   
 </p>
 
