@@ -15,14 +15,28 @@ My projects:
 
 ## 🛠 Tech Stack
 
+### 💻 Languages & Frameworks
 | Category | Technologies |
 |---|---|
 | **Languages** | Python (primary), Java, JavaScript |
 | **API** | FastAPI (primary), Node.js |
-| **Tools & Platforms** | Docker, Linux |
+
+### ☁️ Cloud & Infrastructure
+| Category | Technologies |
+|---|---|
 | **Cloud** | AWS (EC2, SageMaker, Bedrock, Lambda, S3) · GCP (Cloud Run, Document AI, GCS) |
-| **Generative AI** | RAG, AI Agents, LangChain, Claude SDK, Vector DB (PgVector) |
-| **Database** | PostgreSQL |
+| **Tools & Platforms** | Docker, Linux |
+
+### 🤖 AI & Machine Learning
+| Category | Technologies |
+|---|---|
+| **Generative AI** | RAG, AI Agents, LangChain, Claude SDK, PgVector |
 | **Deep Learning** | PyTorch |
-| **Machine Learning** | pandas, numpy, scikit-learn, matplotlib, seaborn |
+| **ML Libraries** | scikit-learn, pandas, numpy |
+| **Visualization** | matplotlib, seaborn |
+
+### 🗄️ Database
+| Category | Technologies |
+|---|---|
+| **Database** | PostgreSQL |
 
