@@ -13,13 +13,16 @@ My projects:
 
 - 📫 How to reach me **vishnu1999w@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
-<a href="http://docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/>
+## 🛠 Tech Stack
 
+| Category | Technologies |
+|---|---|
+| **Languages** | Python (primary), Java, JavaScript |
+| **API** | FastAPI (primary), Node.js |
+| **Tools & Platforms** | Docker, Linux |
+| **Cloud** | AWS (EC2, SageMaker, Bedrock, Lambda, S3) · GCP (Cloud Run, Document AI, GCS) |
+| **Generative AI** | RAG, AI Agents, LangChain, Claude SDK, Vector DB (PgVector) |
+| **Database** | PostgreSQL |
+| **Deep Learning** | PyTorch |
+| **Machine Learning** | pandas, numpy, scikit-learn, matplotlib, seaborn |
 
