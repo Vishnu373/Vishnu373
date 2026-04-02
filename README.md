@@ -2,6 +2,7 @@
 <h3 align="center">AI Engineer</h3>
 
 My projects:
+- [Malik in the west chatbot]() - A chatbot specialized on Islamic jurisprudence based on the maliki school.
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
 - [Mental Health AI assistant](https://github.com/Vishnu373/mental-health-ai-assistant-protoype) - Chatbot specialized for individuals struggling with depression, anxiety and like of.
 - [Stable diffusion VRAM estimator](https://github.com/Vishnu373/stable-diffusion-vram-calculator) - Amount of VRAM required for diffusion model.
