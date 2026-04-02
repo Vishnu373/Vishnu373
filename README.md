@@ -2,12 +2,12 @@
 <h3 align="center">AI Engineer</h3>
 
 My projects:
-- [Malik in the west chatbot](https://github.com/Vishnu373/malik-in-the-west-chatbot) - Chatbot specialized for Islamic jurisprudence based on the maliki school.
-- [GTM AI]() - Automating the process of finding potential customers. Note: Repo is private.
+- [Malik in the west chatbot](Private) - Chatbot specialized for Islamic jurisprudence based on the maliki school.
+- [GTM AI](Private) - Automating the process of finding potential customers.
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
 - [Mental Health AI assistant](https://github.com/Vishnu373/mental-health-ai-assistant-protoype) - Chatbot specialized for individuals struggling with depression, anxiety and like of.
 - [Stable diffusion VRAM estimator](https://github.com/Vishnu373/stable-diffusion-vram-calculator) - Amount of VRAM required for diffusion model.
-- [Clarity Coach](https://github.com/Vishnu373/clarity-coach-prototype) - AI career strategist.
+- [Clarity Coach](https://github.com/Vishnu373/clarity-coach-prototype) - AI career strategist (Resume tailor, Skill analysis, Future-proof skill suggestion)
 
 - 📫 How to reach me **vishnu1999w@gmail.com**
 
