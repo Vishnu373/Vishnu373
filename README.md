@@ -2,8 +2,8 @@
 <h3 align="center">AI Engineer</h3>
 
 My projects:
-- [Malik in the west chatbot] - Chatbot specialized for Islamic jurisprudence based on the maliki school. (private repo)
-- [GTM AI] - Automating the process of finding potential customers. (Private repo)
+- Malik in the west chatbot (private repo) - Chatbot specialized for Islamic jurisprudence based on the maliki school. 
+- GTM AI (private repo) - Automating the process of finding potential customers.
 - [System design](https://github.com/Vishnu373/system-design-notes) - System design notes.
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
 - [Student registration system](https://github.com/sc4k-gh/student-registration-coop) - System design and mentor.
