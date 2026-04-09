@@ -26,13 +26,14 @@ My projects:
 ### ☁️ Cloud & Infrastructure
 | Category | Technologies |
 |---|---|
-| **Cloud** | AWS (EC2, SageMaker, Bedrock, Lambda, S3) · GCP (Cloud Run, Document AI, GCS) |
+| **Cloud** | AWS (EC2, SageMaker, Bedrock, Lambda, S3, Textract) · GCP (Cloud Run, Document AI, Buckets) |
 | **Tools & Platforms** | Docker, Linux |
 
 ### 🤖 AI & Machine Learning
 | Category | Technologies |
 |---|---|
 | **Generative AI** | RAG, AI Agents, LangChain, Claude SDK, PgVector |
+| **LLMs** | Claude, GPT, Gemini, Hugging Face (Mistral) |
 | **Deep Learning** | PyTorch |
 | **ML Libraries** | scikit-learn, pandas, numpy |
 | **Visualization** | matplotlib, seaborn |
@@ -40,5 +41,5 @@ My projects:
 ### 🗄️ Database
 | Category | Technologies |
 |---|---|
-| **Database** | PostgreSQL |
+| **Database** | PostgreSQL, SQLlite |
 
