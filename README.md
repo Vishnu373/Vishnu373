@@ -4,7 +4,6 @@
 My projects:
 - Malik in the west chatbot (private repo) - Chatbot specialized for Islamic jurisprudence based on the maliki school. 
 - GTM AI (private repo) - Automating the process of outbound outreach - reaching out to target customers.
-- [System design](https://github.com/Vishnu373/system-design-notes) - System design notes.
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
 - [Student registration system](https://github.com/sc4k-gh/student-registration-coop) - System design and mentor.
 - [News Analyzer](https://github.com/Vishnu373/news-analyzer) - Fetch news by a managed LLM API and validation by open source LLMs.
