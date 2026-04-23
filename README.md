@@ -43,3 +43,6 @@ Notes:
 |---|---|
 | **Database** | PostgreSQL, SQLlite |
 
+Reach out:
+[LinkedIn](https://www.linkedin.com/in/vishnu-vinay-2023-lin)
+[Mail](vishnu1999w@gmail.com)
