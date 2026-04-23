@@ -11,6 +11,10 @@ My projects:
 - [Stable diffusion VRAM estimator](https://github.com/Vishnu373/stable-diffusion-vram-calculator) - Amount of VRAM required for diffusion model.
 - [Clarity Coach](https://github.com/Vishnu373/clarity-coach-prototype) - AI career strategist (Resume tailor, Skill analysis, Future-proof skill suggestion)
 
+Notes:
+[Inference Engineering](https://github.com/Vishnu373/inference-engineering-notes) - Current
+[System design] - Coming soon
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Frameworks
