@@ -14,8 +14,6 @@ My projects:
 Notes:
 - [Inference Engineering](https://github.com/Vishnu373/inference-engineering-notes) - Current
 - [System design]() - Coming soon
-- [Linux]() - Coming soon
-- [Github]() - Coming soon
 
 ## 🛠 Tech Stack
 
