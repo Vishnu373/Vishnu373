@@ -13,7 +13,7 @@ My projects:
 
 Notes:
 - [Inference Engineering](https://github.com/Vishnu373/inference-engineering-notes) - Current
-- [System design]() - Coming soon
+- [System design](https://github.com/Vishnu373/system-design-notes) - Current
 
 ## 🛠 Tech Stack
 
