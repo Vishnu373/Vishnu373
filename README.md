@@ -2,8 +2,8 @@
 <h3 align="center">AI Engineer</h3>
 
 My projects:
-- Nisbah learning (private repo, current) - A marketplace platform for student and teachers to learn religious subjects.
-- GTM AI (private repo) - Automating the process of outbound outreach - reaching out to target customers.
+- Nisbah learning (private repo, personal project, current) - A marketplace platform for student and teachers to learn religious subjects.
+- Compliance IQ (private repo, company product, current) - Entire compliance pipeline (rule ingestion -> evaluating -> audit report) fully running locally. 
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
 - [Student registration system](https://github.com/sc4k-gh/student-registration-coop) - System design and mentor.
 - [News Analyzer](https://github.com/Vishnu373/news-analyzer) - Fetch news by a managed LLM API and validation by open source LLMs.
