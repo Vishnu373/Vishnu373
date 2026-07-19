@@ -13,8 +13,8 @@ My projects:
 - [Clarity Coach](https://github.com/Vishnu373/clarity-coach-prototype) - AI career strategist (Resume tailor, Skill analysis, Future-proof skill suggestion)
 
 Notes:
-- [Inference Engineering](https://github.com/Vishnu373/inference-engineering-notes) - Current
-- [System design](https://github.com/Vishnu373/system-design-notes) - Current
+- [Inference Engineering](https://github.com/Vishnu373/inference-engineering-notes) - Paused
+- [System design](https://github.com/Vishnu373/system-design-notes) - Paused
 
 ## 🛠 Tech Stack
 
