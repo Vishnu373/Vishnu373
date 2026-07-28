@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer</h3>
 
 My projects:
-- ASmart Medical Scribe (private repo, current) - On-device (<= 16 GB RAM) transcribe + SOAP note generation for clinics, physicians and like of.
+- ASmart Medical Scribe (private repo, current) - On-device (<= 16 GB RAM) transcribe + SOAP note generation for clinics, private physicians and like of.
 - Nisbah Learning (private repo, paused) - A marketplace platform for student and teachers to learn religious subjects.
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
 - [Student registration system](https://github.com/sc4k-gh/student-registration-coop) - System design and mentor.
