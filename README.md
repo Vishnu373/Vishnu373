@@ -2,9 +2,7 @@
 <h3 align="center">AI Engineer</h3>
 
 My projects:
-- ASmart Autofill (public repo, current)- On-device, patient intake form with automatically filling up necessary fields in EMR. 
 - ASmart Medical Scribe (private repo, current) - On-device, AI transcription and SOAPR note generation for clinics.
-
 - Nisbah Learning (private repo, dropped) - An educational marketplace for student and teachers for learning religious subjects. | status: system design doc complete.
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
 - [Student registration system](https://github.com/sc4k-gh/student-registration-coop) - System design and mentor.
