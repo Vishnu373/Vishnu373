@@ -2,6 +2,7 @@
 <h3 align="center">AI Engineer</h3>
 
 My projects:
+- Inverse text normalization indic () - Spoken number words converted into digits for Indian language (currently supports Malayalam language only). Feel free to contribute to this project.
 - ASmart Medical Scribe (private repo, current) - On-device, AI transcription and SOAPR note generation for clinics.
 - Nisbah Learning (private repo, dropped) - An educational marketplace for student and teachers for learning religious subjects. | status: system design doc complete.
 - [LabelIQ](https://github.com/kamalbluora-ai/Label-IQ-experiments)  - AI food compliance based on Canadian food standards (CFIA).
