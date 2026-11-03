@@ -18,7 +18,7 @@ Notes:
 - [System design](https://github.com/Vishnu373/system-design-notes)
 
 Certifications:
-- [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e4fd5f63-5e89-40aa-bbb1-f64b43ddb50a.jpeg?v=1774372874)](https://www.boot.dev/certificates/e4fd5f63-5e89-40aa-bbb1-f64b43ddb50a)
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e4fd5f63-5e89-40aa-bbb1-f64b43ddb50a.jpeg?v=1774372874)](https://www.boot.dev/certificates/e4fd5f63-5e89-40aa-bbb1-f64b43ddb50a)
 
 ## 🛠 Tech Stack
 
